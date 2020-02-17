@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MobileTopUp</string>
+    <string name="payment_type">Payment Methods</string>
+
+    <string-array name="payment_method">
+        <item>Pick by agent from your place</item>
+        <item>Deposit in Agent place</item>
+    </string-array>
+
+</resources>
